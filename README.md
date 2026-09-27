@@ -1,6 +1,22 @@
 ## Hi, I'm Timothy 👋
 
-Electrical Engineering student at **Utah Valley University**. I build web apps, games and tools for things I actually use, mostly on my phone. Everything below is live: click a picture to open it.
+Electrical Engineering student at **Utah Valley University**. I build web apps, games and tools for things I actually use, mostly on my phone. Click a picture to open it.
+
+### Hardware
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/TimothyHadfield/polar-cnc-plotter"><img src="https://raw.githubusercontent.com/TimothyHadfield/polar-cnc-plotter/main/docs/photos/full-machine.jpg" alt="Polar CNC Plotter"></a>
+<b><a href="https://github.com/TimothyHadfield/polar-cnc-plotter">Polar CNC Plotter</a></b><br>
+A pen plotter that spins the paper under the pen: Arduino + GRBL, 3 stepper axes, a salvaged DVD-drive stepper and custom 3D prints.
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+### Software
 
 <table>
 <tr>
