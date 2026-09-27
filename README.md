@@ -17,8 +17,8 @@ Companion site for an ESPN league: draft assistant, trade finder, season simulat
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/TimothyHadfield/No_risk_Betting"><img src="https://raw.githubusercontent.com/TimothyHadfield/No_risk_Betting/main/docs/screenshots/desktop-markets.png" alt="No-Risk Betting"></a>
-<b><a href="https://github.com/TimothyHadfield/No_risk_Betting">No-Risk Betting</a></b><br>
+<a href="https://no-risk-betting.onrender.com/"><img src="https://raw.githubusercontent.com/TimothyHadfield/No_risk_Betting/main/docs/screenshots/desktop-markets.png" alt="No-Risk Betting"></a>
+<b><a href="https://no-risk-betting.onrender.com/">No-Risk Betting</a></b> · <a href="https://github.com/TimothyHadfield/No_risk_Betting">code</a><br>
 A betting app with no real money: live Kalshi odds, a virtual $1,000, parlays and a forecasting score.
 </td>
 <td width="50%" valign="top">
@@ -81,7 +81,11 @@ Drop orbs and watch them orbit, spiral and merge in a browser physics sandbox.
 <b><a href="https://timothyhadfield.github.io/inspirational-quote-generator/">Quote Generator</a></b> · <a href="https://github.com/TimothyHadfield/inspirational-quote-generator">code</a><br>
 An inspirational quote from my favorites, one tap at a time, with no repeats.
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://timothyhadfield.github.io/Estimator_Quiz/Estimator_Quiz/"><img src="https://raw.githubusercontent.com/TimothyHadfield/Estimator_Quiz/main/docs/screenshots/desktop.png" alt="Estimator Quiz"></a>
+<b><a href="https://timothyhadfield.github.io/Estimator_Quiz/Estimator_Quiz/">Estimator Quiz</a></b> · <a href="https://github.com/TimothyHadfield/Estimator_Quiz">code</a><br>
+Guess numbers you can't know exactly and score up to 1,000 points for how close you get, across 2,500 questions.
+</td>
 </tr>
 </table>
 
