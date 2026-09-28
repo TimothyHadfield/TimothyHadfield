@@ -12,7 +12,7 @@ Electrical Engineering student at **Utah Valley University**. I build web apps, 
 A pen plotter that spins the paper under the pen: Arduino + GRBL, 3 stepper axes, a salvaged DVD-drive stepper and custom 3D prints.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/TimothyHadfield/4-bit-adder-subtractor"><img src="https://raw.githubusercontent.com/TimothyHadfield/4-bit-adder-subtractor/main/docs/photos/breadboard-8477.jpg" alt="4-Bit Adder / Subtractor"></a>
+<a href="https://github.com/TimothyHadfield/4-bit-adder-subtractor"><img src="https://raw.githubusercontent.com/TimothyHadfield/4-bit-adder-subtractor/main/docs/photos/hero.jpg" alt="4-Bit Adder / Subtractor"></a>
 <b><a href="https://github.com/TimothyHadfield/4-bit-adder-subtractor">4-Bit Adder / Subtractor</a></b><br>
 Binary adder and two's-complement subtractor: designed in Multisim, built on a breadboard with 74LS83 and 74LS04 chips.
 </td>
