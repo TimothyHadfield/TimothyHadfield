@@ -1,6 +1,6 @@
 ## Hi, I'm Timothy 👋
 
-Electrical Engineering student at **Utah Valley University**. I build web apps, games and tools for things I actually use, mostly on my phone. Click a picture to open it.
+Electrical Engineering student at **Utah Valley University**. I build hardware projects in the lab, and web apps, games and tools for things I actually use, mostly on my phone. Click a picture to open it.
 
 ### Hardware
 
