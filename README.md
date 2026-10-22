@@ -38,15 +38,16 @@ Companion site for an ESPN league: draft assistant, trade finder, season simulat
 
 ### Board & card games
 
-<a href="https://timothyhadfield.github.io/"><img src="https://raw.githubusercontent.com/TimothyHadfield/TimothyHadfield.github.io/main/docs/screenshots/games/collage.jpg" alt="Board and card games"></a>
-
-**[Open the game hub →](https://timothyhadfield.github.io/)** 31 board and card games and table companions, each its own web app. Play against computers or with friends online, with live odds, hints, sounds and real-table looks, on phone or laptop.
-
-- **Board games:** [Ticket to Ride](https://timothyhadfield.github.io/ticket-to-ride/) · [Risk](https://timothyhadfield.github.io/risk/) · [Pandemic](https://timothyhadfield.github.io/pandemic/) · [Carcassonne](https://timothyhadfield.github.io/carcassonne/) · [Splendor](https://timothyhadfield.github.io/splendor/) · [King of Tokyo](https://timothyhadfield.github.io/king-of-tokyo/) · [Monopoly](https://timothyhadfield.github.io/monopoly/) · [Evolution](https://timothyhadfield.github.io/evolution/) · [7 Wonders](https://timothyhadfield.github.io/seven-wonders/) · [Catan Statistics](https://timothyhadfield.github.io/catan-statistics/)
-- **Card games:** [Cribbage](https://timothyhadfield.github.io/cribbage/) · [Venture Lab](https://timothyhadfield.github.io/venture-lab/) · [Dominion](https://timothyhadfield.github.io/dominion/) · [Texas Hold'em](https://timothyhadfield.github.io/texas-holdem/) · [Hearts & Spades](https://timothyhadfield.github.io/hearts-spades/) · [Skull King](https://timothyhadfield.github.io/skull-king/) · [Cover Your Assets](https://timothyhadfield.github.io/cover-your-assets/) · [Exploding Kittens](https://timothyhadfield.github.io/exploding-kittens/)
-- **Party & hidden roles:** [Secret Hitler Companion](https://timothyhadfield.github.io/secret-hitler-companion/) · [Codenames](https://timothyhadfield.github.io/codenames/) · [Clocktower](https://timothyhadfield.github.io/clocktower/) · [Coup](https://timothyhadfield.github.io/coup/) · [Werewolf](https://timothyhadfield.github.io/werewolf/) · [Wavelength](https://timothyhadfield.github.io/wavelength/)
-- **Classics:** [Clue](https://timothyhadfield.github.io/clue/) · [Battleship](https://timothyhadfield.github.io/battleship/) · [Connect Four](https://timothyhadfield.github.io/connect-four/) · [Stratego](https://timothyhadfield.github.io/stratego/) · [Checkers](https://timothyhadfield.github.io/checkers/)
-- **Dice:** [BANK Evolution](https://timothyhadfield.github.io/bank-evolution/) · [BANK AI Trainer](https://timothyhadfield.github.io/bank-ai-trainer/)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/TimothyHadfield/TimothyHadfield.github.io"><img src="https://raw.githubusercontent.com/TimothyHadfield/TimothyHadfield.github.io/main/docs/screenshots/games/ticket-to-ride.jpg" alt="Board and card games: Ticket to Ride"></a>
+<b><a href="https://github.com/TimothyHadfield/TimothyHadfield.github.io">31 board & card games</a></b> · <a href="https://timothyhadfield.github.io/">game hub</a><br>
+Ticket to Ride, Risk, Pandemic, Catan, Secret Hitler, Cribbage and 25 more, each its own web app. Play against computers or with friends online, with live odds and hints. Click the picture for the full list.
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ### More apps
 
@@ -58,7 +59,7 @@ Companion site for an ESPN league: draft assistant, trade finder, season simulat
 Guess numbers you can't know exactly and score up to 1,000 points for how close you get, across 2,500 questions.
 </td>
 <td width="50%" valign="top">
-<a href="https://timothyhadfield.github.io/smart-advisor/"><img src="https://raw.githubusercontent.com/TimothyHadfield/smart-advisor/main/docs/screenshots/desktop-flowchart.png" alt="Smart Advisor"></a>
+<a href="https://timothyhadfield.github.io/smart-advisor/"><img src="https://raw.githubusercontent.com/TimothyHadfield/smart-advisor/main/docs/screenshots/desktop-flowchart-dark.png" alt="Smart Advisor"></a>
 <b><a href="https://timothyhadfield.github.io/smart-advisor/">Smart Advisor</a></b> · <a href="https://github.com/TimothyHadfield/smart-advisor">code</a><br>
 For UVU students: a prerequisite flowchart for any of 541 programs, an automatic plan to graduate on time, and a schedule builder with real sections, professors and ratings.
 </td>
