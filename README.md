@@ -12,9 +12,9 @@ Electrical Engineering student at **Utah Valley University**. I build hardware p
 A pen plotter that spins the paper under the pen: Arduino + GRBL, 3 stepper axes, a salvaged DVD-drive stepper and custom 3D prints. Plus my own plotter app: drop in any picture, preview exactly what the pen will draw, and download polar G-code.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/TimothyHadfield/4-bit-adder-subtractor"><img src="https://raw.githubusercontent.com/TimothyHadfield/4-bit-adder-subtractor/main/docs/photos/hero.jpg" alt="4-Bit Adder / Subtractor"></a>
-<b><a href="https://github.com/TimothyHadfield/4-bit-adder-subtractor">4-Bit Adder / Subtractor</a></b><br>
-Binary adder and two's-complement subtractor: designed in Multisim, built on a breadboard with 74LS83 and 74LS04 chips.
+<a href="https://github.com/TimothyHadfield/breadboard-circuits"><img src="https://raw.githubusercontent.com/TimothyHadfield/4-bit-adder-subtractor/main/docs/photos/hero.jpg" alt="Breadboard Circuits: 4-Bit Adder / Subtractor"></a>
+<b><a href="https://github.com/TimothyHadfield/breadboard-circuits">Breadboard Circuits</a></b><br>
+8 circuits I built in my ECE labs: a 4-bit adder/subtractor, Boolean logic and K-map circuits, an AND gate, source transformation, max power transfer and more, each with its own photos. Click the picture for the full list.
 </td>
 </tr>
 </table>
